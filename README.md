@@ -1,12 +1,40 @@
-# React + Vite
+# ✈️ Flights Booking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **flight booking application** built with **React.js, Zustand, Redux, and Tailwind CSS**.
+The app includes an **authentication screen** and provides a complete flow for **browsing and booking tickets**.
 
-Currently, two official plugins are available:
+🔗 [Live Demo](https://flightsbookingapp.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 🔑 **User authentication**
+* 🔍 **Browse available flights**
+* 🛒 **Book tickets online**
+* 📋 Detailed flight information
+* ⚡ State management with **Zustand & Redux**
+* 🎨 Responsive design with Tailwind CSS
+
+---
+
+## 🛠 Tech Stack
+
+* **Frontend:** React.js, Tailwind CSS
+* **State Management:** Zustand, Redux
+* **Deployment:** Netlify
+
+---
+
+## 🚀 Installation & Setup
+
+npm install
+npm run dev
+
+---
+
+## 👨‍💻 Author
+
+Developed by [Doritos337](https://github.com/Doritos337)
+
+Хочешь, я соберу **единый шаблон README** (с эмодзи, секциями Features/Tech Stack/Setup/Author), чтобы ты просто копировал и менял несколько строк для каждого нового проекта?
